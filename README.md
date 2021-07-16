@@ -1,2 +1,2 @@
-# Database-Lab
-USTC 2021 Spring Database Labs
+# Database-Coursework
+USTC 2021 Spring Database Labs and Assignments
